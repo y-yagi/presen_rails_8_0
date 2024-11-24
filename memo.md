@@ -12,3 +12,10 @@
     * [How \(and why\) to run SQLite in production \| Fractaled Mind](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 * Propshaft
   * [ONCE \#1 is entirely \#nobuild for the front\-end](https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7)
+* Generating the authentication basics
+  * テーブルは2つusersとsessions
+  * ログイン、ログアウト、パスワードリセット
+  * cookieにはsession idを設定
+  * サインアップフローは無し
+    * これは通常アプリケーション毎に違う可能性がある為、とのこと
+  * ログイン処理にはrate_limitが指定されている
