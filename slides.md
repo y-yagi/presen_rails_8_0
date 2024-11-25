@@ -33,6 +33,27 @@ hide: false
 ---
 
 ---
+src: ./pages/intro_02.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/authentication_basics_01.md
+hide: false
+---
+
+---
+src: ./pages/authentication_basics_02.md
+hide: false
+---
+
+---
+src: ./pages/authentication_basics_03.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
