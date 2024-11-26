@@ -20,3 +20,5 @@
   * サインアップフローは無し
     * これは通常アプリケーション毎に違う可能性がある為、とのこと
   * ログイン処理にはrate_limitが指定されている
+＊ その他メモ
+  * [37signals Dev — De\-cloud and de\-k8s — bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)

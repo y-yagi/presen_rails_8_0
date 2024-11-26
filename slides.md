@@ -33,9 +33,39 @@ hide: false
 ---
 
 ---
-src: ./pages/intro_02.md
+src: ./pages/major_features_01.md
 hide: false
 layout: center
+---
+
+---
+src: ./pages/major_features_02.md
+hide: false
+---
+
+---
+src: ./pages/kamal_and_thruster_01.md
+hide: false
+---
+
+---
+src: ./pages/kamal_and_thruster_02.md
+hide: false
+---
+
+---
+src: ./pages/kamal_and_thruster_03.md
+hide: false
+---
+
+---
+src: ./pages/kamal_and_thruster_04.md
+hide: false
+---
+
+---
+src: ./pages/kamal_and_thruster_05.md
+hide: false
 ---
 
 ---
