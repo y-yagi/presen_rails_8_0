@@ -69,6 +69,26 @@ hide: false
 ---
 
 ---
+src: ./pages/solid_01.md
+hide: false
+---
+
+---
+src: ./pages/solid_02.md
+hide: false
+---
+
+---
+src: ./pages/solid_03.md
+hide: false
+---
+
+---
+src: ./pages/solid_04.md
+hide: false
+---
+
+---
 src: ./pages/authentication_basics_01.md
 hide: false
 ---
