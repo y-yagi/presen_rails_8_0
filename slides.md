@@ -89,6 +89,11 @@ hide: false
 ---
 
 ---
+src: ./pages/sqlite_01.md
+hide: false
+---
+
+---
 src: ./pages/authentication_basics_01.md
 hide: false
 ---

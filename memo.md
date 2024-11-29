@@ -11,6 +11,9 @@
   * https://www.youtube.com/watch?v=wFUy120Fts8&t=0s
   * ↑の資料 [Supercharge the One Person Framework with SQLite \| Fractaled Mind](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
     * [How \(and why\) to run SQLite in production \| Fractaled Mind](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
+  * [Performance tune the SQLite3 adapter connection configuration](https://github.com/rails/rails/pull/49349)
+  * [Ensure SQLite transaction default to IMMEDIATE mode](https://github.com/rails/rails/pull/50371)
+  * [Open & writable database connections carried across fork() are automatically discarded in the child](https://github.com/sparklemotion/SQLite3-ruby/pull/558)
 * Replacing Sprockets with Propshaft
   * [ONCE \#1 is entirely \#nobuild for the front\-end](https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7)
 * Generating the authentication basics
