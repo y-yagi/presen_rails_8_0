@@ -1,1 +1,1 @@
-# Action View
+# railties

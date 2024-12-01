@@ -1,4 +1,4 @@
-# [Add `Parameters#expect` to safely filter and require params (#51674)](https://github.com/rails/rails/commit/e1d58cfd05ae1cc0bfc1006b7ce973a7730831df)
+# Add `Parameters#expect` to safely filter and require params
 
  ```ruby
  # URLに`?person=hacked`というパラメータが指定されていた場合
@@ -9,5 +9,5 @@
 
  # After
  params.expect(person: [ :name, :age, pets: [[:name]] ])
- # => ActionController::ParameterMissingraiseして400エラー
+ # => ActionController::ParameterMissingをraiseして400エラー
 ```

@@ -1,5 +1,6 @@
-# [Add `:except_on` option for validations](https://github.com/rails/rails/commit/372c64294b3baaf9a691d233c75d6a97a373f483)
+# Add `:except_on` option for validations
 
+* [PR](https://github.com/rails/rails/pull/43495)
 * 特定のcontextの場合のみバリデーションをスキップ出来るようにする為の`:except_on`オプションを追加
 
 ```ruby
