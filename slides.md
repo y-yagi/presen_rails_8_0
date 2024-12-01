@@ -144,6 +144,115 @@ hide: false
 ---
 
 ---
+src: ./pages/major_features_03.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/changelogs_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/action_view_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/action_view_02.md
+hide: false
+---
+
+---
+src: ./pages/action_view_03.md
+hide: false
+---
+
+---
+src: ./pages/action_pack_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/action_pack_02.md
+hide: false
+---
+
+---
+src: ./pages/active_model_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/active_model_02.md
+hide: false
+---
+
+---
+src: ./pages/active_record_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/active_record_02.md
+hide: false
+---
+
+---
+src: ./pages/active_support_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/active_support_02.md
+hide: false
+---
+
+---
+src: ./pages/railties_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/railties_02.md
+hide: false
+---
+
+---
+src: ./pages/new_framework_defaults_01.md
+hide: false
+layout: center
+---
+
+---
+src: ./pages/new_framework_defaults_02.md
+hide: false
+---
+
+---
+src: ./pages/new_framework_defaults_03.md
+hide: false
+---
+
+---
+src: ./pages/new_framework_defaults_04.md
+hide: false
+---
+
+---
+src: ./pages/new_framework_defaults_05.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
