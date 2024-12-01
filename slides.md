@@ -226,6 +226,11 @@ hide: false
 ---
 
 ---
+src: ./pages/active_support_03.md
+hide: false
+---
+
+---
 src: ./pages/railties_01.md
 hide: false
 layout: center
@@ -233,6 +238,21 @@ layout: center
 
 ---
 src: ./pages/railties_02.md
+hide: false
+---
+
+---
+src: ./pages/railties_03.md
+hide: false
+---
+
+---
+src: ./pages/railties_04.md
+hide: false
+---
+
+---
+src: ./pages/railties_05.md
 hide: false
 ---
 

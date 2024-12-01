@@ -53,7 +53,6 @@
     * Active Support
       * `ActiveSupport::TimeWithZone#inspect` now uses ISO 8601 style time like `Time#inspect`
       * `ActiveSupport::ErrorReporter#report` now assigns a backtrace to unraised exceptions.
-      * Add a new configuration value `:zone` for `ActiveSupport.to_time_preserves_timezone` and rename the previous `true` value to `:offset`. The new default value is `:zone`.
     * railties
       * Defer route drawing to the first request, or when url_helpers are called
       * Add not-null type modifier to migration attributes.
