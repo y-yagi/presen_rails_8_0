@@ -183,6 +183,16 @@ hide: false
 ---
 
 ---
+src: ./pages/action_pack_03.md
+hide: false
+---
+
+---
+src: ./pages/action_pack_04.md
+hide: false
+---
+
+---
 src: ./pages/active_model_01.md
 hide: false
 layout: center
