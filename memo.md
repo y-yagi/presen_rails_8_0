@@ -23,5 +23,44 @@
   * サインアップフローは無し
     * これは通常アプリケーション毎に違う可能性がある為、とのこと
   * ログイン処理にはrate_limitが指定されている
-＊ その他メモ
+* その他メモ
   * [37signals Dev — De\-cloud and de\-k8s — bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
+  * CHANGELOGS
+    * Action View
+      * Rename `text_area` methods into `textarea
+      * Rename `check_box*` methods into `checkbox*`.
+      * Action Text
+        * Rename `rich_text_area` methods into `rich_textarea`
+    * Action Pack
+      *  `params#expect`
+      * strict_freshness
+      * Support `immutable` directive in Cache-Control
+      * Add `connect` route helper.
+    * Active Model
+      * Add `:except_on` option for validations. Grants the ability to _skip_ validations in specified contexts.
+    * Active Record
+      * Allow `ActiveRecord::Base#pluck` to accept hash arguments with symbol and string values.
+      * Allow `drop_table` to accept an array of table names.
+      * When running `db:migrate` on a fresh database, load the databases schemas before running migrations.
+      * Deprecate `unsigned_float` and `unsigned_decimal` short-hand column methods.
+      * Make Active Record asynchronous queries compatible with transactional fixtures.
+      * Add support for SQLite3 full-text-search and other virtual tables.
+      * Support use of alternative database interfaces via the `database_cli` ActiveRecord configuration option.
+      * Include schema name in `enable_extension` statements in `db/schema.rb`.
+      * Support batching using custom columns.
+      * Add `.shard_keys`, `.sharded?`, & `.connected_to_all_shards` methods.
+      * Allow to configure `strict_loading_mode` globally or within a model.
+    * Active Support
+      * `ActiveSupport::TimeWithZone#inspect` now uses ISO 8601 style time like `Time#inspect`
+      * `ActiveSupport::ErrorReporter#report` now assigns a backtrace to unraised exceptions.
+      * Add a new configuration value `:zone` for `ActiveSupport.to_time_preserves_timezone` and rename the previous `true` value to `:offset`. The new default value is `:zone`.
+    * railties
+      * Defer route drawing to the first request, or when url_helpers are called
+      * Add not-null type modifier to migration attributes.
+      * Add a `script` folder to applications, and a scripts generator.
+      * Add internal page `/rails/info/notes`, that displays the same information as `bin/rails notes`.
+  * new_framework_defaults_8_0.rb
+    * Rails.application.config.active_support.to_time_preserves_timezone = :zone
+    * Rails.application.config.action_dispatch.strict_freshness = true
+    * Regexp.timeout = 1
+
