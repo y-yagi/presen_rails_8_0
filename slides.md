@@ -89,6 +89,21 @@ hide: false
 ---
 
 ---
+src: ./pages/solid_05.md
+hide: false
+---
+
+---
+src: ./pages/solid_06.md
+hide: false
+---
+
+---
+src: ./pages/solid_07.md
+hide: false
+---
+
+---
 src: ./pages/sqlite_01.md
 hide: false
 ---
