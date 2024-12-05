@@ -215,6 +215,31 @@ hide: false
 ---
 
 ---
+src: ./pages/active_record_03.md
+hide: false
+---
+
+---
+src: ./pages/active_record_04.md
+hide: false
+---
+
+---
+src: ./pages/active_record_05.md
+hide: false
+---
+
+---
+src: ./pages/active_record_06.md
+hide: false
+---
+
+---
+src: ./pages/active_record_07.md
+hide: false
+---
+
+---
 src: ./pages/active_support_01.md
 hide: false
 layout: center
