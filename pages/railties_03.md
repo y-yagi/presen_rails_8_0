@@ -10,4 +10,3 @@ require_relative "../config/environment"
 
 # Your code goes here
 ```
-Add internal page `/rails/info/notes`

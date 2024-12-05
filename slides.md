@@ -251,11 +251,6 @@ hide: false
 ---
 
 ---
-src: ./pages/active_support_03.md
-hide: false
----
-
----
 src: ./pages/railties_01.md
 hide: false
 layout: center
