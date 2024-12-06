@@ -1,6 +1,7 @@
-# Rename `check_box*` methods into `checkbox*`
+# Rename `text_area` methods into `textarea`
 
-* [PR](https://github.com/rails/rails/pull/52432)
-* view helpersの`check_box`、及び、関連メソッド(`collection_check_boxes`、`check_box_tag`等)を`checkbox`(`checkbox*`)にリネーム
-* 理由は`textarea`と同じ
-  * HTMLのinputタグのattributeなどは`checkbox`になっている
+* [PR](https://github.com/rails/rails/pull/52467)
+* view helpersの`text_area`を`textarea`にリネーム
+* 同様にAction Textの`rich_text_area`も`rich_text_area`にリネーム
+* 理由は`checkbox`と同じ
+* 古い方の名前は互換性のために引き続き使える

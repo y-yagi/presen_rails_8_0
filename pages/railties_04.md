@@ -2,7 +2,7 @@
 
 * [PR](https://github.com/rails/rails/pull/52327)
 * カラムのnot-null制約をgeneratorで指定出来るよう対応
-* not-nullにしたい場合、型の末尾に`!`をつければOK
+* not-nullにしたい場合、型の末尾に`!`をつければ良い
 
 ```bash
 bin/rails generate migration CreateUsers email_address:string!:uniq password_digest:string!

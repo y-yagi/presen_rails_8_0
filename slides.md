@@ -234,6 +234,7 @@ src: ./pages/active_record_06.md
 hide: false
 ---
 
+---
 src: ./pages/active_record_07.md
 hide: false
 ---
