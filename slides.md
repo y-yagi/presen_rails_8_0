@@ -99,11 +99,6 @@ hide: false
 ---
 
 ---
-src: ./pages/solid_07.md
-hide: false
----
-
----
 src: ./pages/sqlite_01.md
 hide: false
 ---
@@ -140,6 +135,11 @@ hide: false
 
 ---
 src: ./pages/authentication_basics_03.md
+hide: false
+---
+
+---
+src: ./pages/others_01.md
 hide: false
 ---
 
@@ -234,7 +234,6 @@ src: ./pages/active_record_06.md
 hide: false
 ---
 
----
 src: ./pages/active_record_07.md
 hide: false
 ---
