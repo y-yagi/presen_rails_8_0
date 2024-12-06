@@ -1,4 +1,4 @@
-# Thruster
+# [Thruster](https://github.com/basecamp/thruster/)
 
 * シンプルなHTTP/2 proxy
 * 静的ファイルの配信が出来る

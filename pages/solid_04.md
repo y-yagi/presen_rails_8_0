@@ -1,4 +1,4 @@
-# Solid Cache
+# [Solid Cache](https://github.com/rails/solid_cache)
 
 * [Active Support Cache Store](https://api.rubyonrails.org/classes/ActiveSupport/Cache/Store.html)のキャッシュストアにRDBMSを使用出来るようにしたライブラリ
   * Railsが標準でサポートしているストレージは、メモリ、ファイル、memcached、Redisだけだった

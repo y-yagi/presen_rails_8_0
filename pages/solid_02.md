@@ -1,4 +1,4 @@
-# Solid Cable
+# [Solid Cable](https://github.com/rails/solid_cable)
 
 * Action Cableのadapterで、Railsが公式でサポートしている全てのRDBMSをAction Cableのバックエンドとして使用出来るようにしたライブラリ
   * 元々バックエンドで使えるのはRedis、PostgreSQLのみで、MySQL、SQLiteは使えなかった

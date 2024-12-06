@@ -1,4 +1,4 @@
-# Solid Queue
+# [Solid Queue](https://github.com/rails/solid_queue)
 
 * RDBMSをストレージに使用したバックグラウンド処理用ライブラリ
   * Sidekiq、ResqueやGoodJobの競合

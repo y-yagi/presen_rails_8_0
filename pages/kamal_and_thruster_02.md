@@ -1,4 +1,4 @@
-# Kamal
+# [Kamal](https://github.com/basecamp/kamal)
 
 * コンテナ用のCapistrano
 * ゼロダウンタイムのデプロイ、ローリングリスタート、アセットブリッジング、リモートビルドなどを提供

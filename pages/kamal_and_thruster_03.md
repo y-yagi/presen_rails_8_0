@@ -1,4 +1,4 @@
-# Kamal Proxy
+# [Kamal Proxy](https://github.com/basecamp/kamal-proxy)
 
 * Kamal v2の大きな変更点として、Kamal proxyという独自実装のHTTP proxyを使用するようになった
 * 元々は[Traefik](https://github.com/traefik/traefik)を使用していたが、Kamalと相性が悪かった為、独自に作成したとの事
